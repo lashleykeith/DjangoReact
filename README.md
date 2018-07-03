@@ -9,3 +9,5 @@ Currently my problem that I am having trouble linking my main.css file to my pag
 This css should make this message appear red but it is not. working
 
 ![screenshot_6](https://user-images.githubusercontent.com/21030885/42168588-5f09c7ac-7e4c-11e8-967f-13dae3aa1fbd.jpg)
+![screenshot_10](https://user-images.githubusercontent.com/21030885/42192770-e1df076a-7ea5-11e8-9f49-1e28013acc08.jpg)
+![screenshot_9](https://user-images.githubusercontent.com/21030885/42192776-e8bc4214-7ea5-11e8-80f7-5efce392dd7c.jpg)
