@@ -11,3 +11,8 @@ This css should make this message appear red but it is not. working
 ![screenshot_6](https://user-images.githubusercontent.com/21030885/42168588-5f09c7ac-7e4c-11e8-967f-13dae3aa1fbd.jpg)
 ![screenshot_10](https://user-images.githubusercontent.com/21030885/42192770-e1df076a-7ea5-11e8-9f49-1e28013acc08.jpg)
 ![screenshot_9](https://user-images.githubusercontent.com/21030885/42192776-e8bc4214-7ea5-11e8-80f7-5efce392dd7c.jpg)
+
+This is what I get when I try to inspect the file
+/42197928-2d84a5e8-7ec0-11e8-97d8-81f10dd5ef73.jpg)
+![screenshot_3](https://user-images.githubusercontent.com/21030885/42197931-3005a132-7ec0-11e8-80ba-95ba792ea213.jpg)
+![screenshot_4](https://user-images.githubusercontent.com/21030885/42197934-3159cb1c-7ec0-11e8-9011-945cb3ee7ec3.jpg)
